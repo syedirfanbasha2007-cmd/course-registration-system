@@ -1,0 +1,8 @@
+{
+  "name": "course-registration-studio",
+  "version": "1.0.0",
+  "description": "Course registration CRUD website built with Express and MySQL",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "mysql2": "^3.14.0"}
+}
